@@ -2,3 +2,6 @@
 	path = sh-tools
 	url = git@git.vauxoo.com:vauxoo/sh-tools.git
 	branch = 16.0
+[submodule "pintubahia"]
+	path = pintubahia
+	url = git@git.vauxoo.com:vauxoo/pintubahia.git
