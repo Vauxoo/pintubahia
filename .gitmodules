@@ -1,0 +1,4 @@
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:vauxoo/sh-tools.git
+	branch = 16.0
